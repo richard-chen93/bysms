@@ -1,0 +1,8 @@
+rg_venv/
+__pycache__/
+*.sqlite3
+*.pyc
+.vscode/
+migrations/
+by_venv/
+venv_*/
