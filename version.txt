@@ -1,0 +1,2 @@
+django_version = '2.1.5'
+python_version = '3.8.5'
